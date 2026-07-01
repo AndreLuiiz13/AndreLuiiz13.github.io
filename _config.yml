@@ -9,38 +9,38 @@ description: "Portfólio de André Luiz - Estudante e futuro Cientista de Dados.
 
 # Team names, titles and social links
 people:
+#- name: André Luiz Silva
+ # pic: 1
+  #position: Lead Designer
+  #social:
+   # - title: GitHub
+    #  url: https://github.com/AndreLuiiz13
+    #- title: Linkedin
+     # url: https://www.linkedin.com/in/andr%C3%A9-luiz-9005913b6/
+    #- title: Instagram
+     # url: https://www.instagram.com/andrx.lz/
+
 - name: André Luiz Silva
-  pic: 1
-  position: Lead Designer
+  pic: 2
+  position: Estudante
   social:
     - title: GitHub
       url: https://github.com/AndreLuiiz13
-    - title: Linkedin
-      url: https://www.linkedin.com/in/andr%C3%A9-luiz-9005913b6/
     - title: Instagram
       url: https://www.instagram.com/andrx.lz/
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/andr%C3%A9-luiz-9005913b6/
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+#- name: Diana Petersen
+  #pic: 3
+  #position: Lead Developer
+  #social:
+    #- title: twitter
+      #url: #
+    #- title: facebook
+      #url: #
+    #- title: google-plus
+      #url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
