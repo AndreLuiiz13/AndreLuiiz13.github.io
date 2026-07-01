@@ -3,22 +3,22 @@ baseurl:
 
 # Site settings
 title: André Luiz Silva
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+email: your-andre.silva5@ufv.br
+description: "Portfólio de André Luiz - Estudante e futuro Cientista de Dados."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: André Luiz Silva
   pic: 1
   position: Lead Designer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: GitHub
+      url: #https://github.com/AndreLuiiz13
+    - title: Linkedin
+      url: #https://www.linkedin.com/in/andr%C3%A9-luiz-9005913b6/
+    - title: Instagram
+      url: #https://www.instagram.com/andrx.lz/
 
 - name: Larry Parker
   pic: 2
