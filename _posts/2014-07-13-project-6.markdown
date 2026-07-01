@@ -1,9 +1,9 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Análise da variaçâo dos preços dos combustíveis
+subtitle: Análise e cálculo de dados
 layout: default
 modal-id: 6
-date: 2014-07-15
+date: 2026-06-30
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
