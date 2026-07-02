@@ -10,6 +10,6 @@ alt: image-alt
 Data do trabalho: Junho 2026
 Matéria: EST 100
 Categoria: Análise de taxas e índices, Estatística exploratória.
-description: Análise estatística sobre a pergunta: Os combustíveis continuam tão caros quanto no período da pandemia?
+description: 'Análise estatística sobre a pergunta: Os combustíveis continuam tão caros quanto no período da pandemia?'
 
 ---
