@@ -1,5 +1,5 @@
 ---
-title: Análise da variaçâo dos preços dos combustíveis
+title: Análise da variação dos preços dos combustíveis
 subtitle: Análise e cálculo de dados
 layout: default
 modal-id: 6
@@ -7,9 +7,9 @@ date: 2026-06-30
 img: roundicons.png
 thumbnail: roundiconsthumbnail.png
 alt: image-alt
-Data do trabalho: Junho 2026
-Matéria: EST 100
-Categoria: Análise de taxas e índices, Estatística exploratória.
+project-date: Junho 2026
+client: EST 100
+category: Análise de taxas e índices, Estatística exploratória.
 description: 'Análise estatística sobre a pergunta: Os combustíveis continuam tão caros quanto no período da pandemia?'
 
 ---
