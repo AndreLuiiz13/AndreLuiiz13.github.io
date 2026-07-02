@@ -3,13 +3,13 @@ title: Análise Crítica
 subtitle: Pesquisa sobre o Stack Overflow
 layout: default
 modal-id: 1
-date: 2026-06-18
+date: 2026-06-05
 img: dreams.png
 thumbnail: dreamsthumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: Junho 2026
+Matéria: EST 150
+categoria: Trabalho de Análise Ética 
+description: Uma Análise Ética sobre a veracidade da afirmação feita por uma pesquisa gráfica. 
 
 ---
