@@ -8,8 +8,8 @@ img: dreams.png
 thumbnail: dreamsthumbnail.png
 alt: image-alt
 project-date: Junho 2026
-Matéria: EST 150
-categoria: Trabalho de Análise Ética 
+client: EST 150
+category: Trabalho de Análise Ética 
 description: Uma Análise Ética sobre a veracidade da afirmação feita por uma pesquisa gráfica. 
 
 ---
