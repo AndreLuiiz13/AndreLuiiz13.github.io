@@ -7,9 +7,9 @@ date: 2026-06-30
 img: roundicons.png
 thumbnail: roundiconsthumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+Data do trabalho: Junho 2026
+Matéria: EST 100
+Categoria: Análise de taxas e índices, Estatística exploratória.
+description: Análise estatística sobre a pergunta: Os combustíveis continuam tão caros quanto no período da pandemia?
 
 ---
